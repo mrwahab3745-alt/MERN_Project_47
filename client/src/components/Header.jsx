@@ -9,8 +9,7 @@ export default function Header() {
       <div className="flex justify-between items-center gap-4 p-2 max-w-6xl mx-auto">
         <Link to="/" className="text-2xl font-bold text-black">
           <h1 className="text-sm sm:text-xl font-bold flex">
-          <span className="text-slate-500 ">Real</span>
-          <span className="text-black">Estate</span>
+          <span className="text-slate-500 ">Plotify</span>
         </h1>
         </Link>
         <form className="bg-slate-100 rounded-2xl flex items-center gap-2 px-4 py-1">

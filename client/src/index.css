@@ -113,3 +113,9 @@ code {
   padding: 4px 8px;
   background: var(--code-bg);
 } */
+/* Custom styles can be added here */
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: rgb(241, 245, 241)
+}
